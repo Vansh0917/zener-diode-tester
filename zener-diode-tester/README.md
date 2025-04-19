@@ -71,7 +71,7 @@ zener-diode-tester/ ├── README.md ├── Report/ │ └── Zener_Di
 ## 📎 Resources
 
 - 📄 [Project Report (PDF)](https://github.com/Vansh0917/zener-diode-tester/blob/0940c9c582d043307591ce8ff3f7ea467f41897c/zener-diode-tester/Report/Project%20_%20Zener%20Diode%20Tester%20using%20Op-Amp%20(1).pdf)
-- 🔗 [Google Drive Circuit Diagram](https://drive.google.com/file/d/17hUvKsxiCaZJrs70Yhgb6Tc4fQ2AnfWu/view?usp=sharing)
+- 🔗 [Google Drive Simulation Project](https://drive.google.com/file/d/17hUvKsxiCaZJrs70Yhgb6Tc4fQ2AnfWu/view?usp=sharing)
 
 ## 👤 Author
 
